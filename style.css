@@ -1,0 +1,32 @@
+.heading{
+ background-color: rgb(250, 187, 207);
+ font-size: 25px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.note{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: grey;
+    line-height: 3;
+    background-color: black;
+    text-align: center;
+    text-shadow: 0cm;
+    font-size: large;
+}
+
+.background{
+    background-image: url(pastel-background-sky-feminine-style_53876-104862.webp);
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px ghostwhite;
+    background-color: wheat;
+}
